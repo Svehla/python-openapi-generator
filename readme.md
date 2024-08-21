@@ -1,9 +1,6 @@
 OpenAPI Model Generator Documentation
 =====================================
   
-OpenAPI Model Generator Documentation body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; box-sizing: border-box; } .container { width: 90%; margin: 0 auto; padding: 20px; } h1, h2, h3 { color: #333; } pre { background: #f4f4f4; padding: 10px; border: 1px solid #ddd; overflow-x: auto; } code { font-family: Consolas, monospace; background: #f4f4f4; padding: 2px 5px; }
-
-
 This documentation describes the usage of the OpenAPI Model Generator function, which generates Pydantic models from an OpenAPI specification.
 
 Function: `generate_models`
